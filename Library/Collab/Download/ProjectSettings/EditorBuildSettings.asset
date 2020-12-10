@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: dae36700e94171940a3bf961493c4380
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 018bb09bf4b2ad646a64b3fa4d6b0feb
+  - enabled: 1
+    path: Assets/Scenes/ChazongHole.unity
+    guid: d43b9bdc24128cc458846eef4fee58d5
+  - enabled: 1
+    path: Assets/Scenes/ChazongHole2.unity
+    guid: 3c500892b2614554eb8c7cd70c782ccc
+  - enabled: 1
+    path: Assets/Scenes/WeisserHole1.unity
+    guid: d2cd4ede093ad1a48a9d2f4ce368df3a
+  - enabled: 1
+    path: Assets/Scenes/CharlieHole2.unity
+    guid: 32a992a6bdc137f4fa0154e35e1dc14f
+  - enabled: 1
+    path: Assets/Scenes/ChazongHole3.unity
+    guid: a5f1c574f43748645b9b362e85fdfb42
+  - enabled: 1
+    path: Assets/Scenes/CharlieHole3.unity
+    guid: 2d36a4e8fbe71bb4896dbd5cdd190195
+  - enabled: 1
+    path: Assets/Scenes/WeisserHole2.unity
+    guid: f147d9e40525db24eb12f1752316b013
+  - enabled: 1
+    path: Assets/Scenes/WeisserHole3.unity
+    guid: db602e38d07143f4aa12c086ce13bd61
+  - enabled: 1
+    path: Assets/Scenes/Edgarhole3.unity
+    guid: 2bc860c9079863549b6aac723c8e4d74
+  - enabled: 1
+    path: Assets/Scenes/Edgahole2.unity
+    guid: bacb3122f40b247448a712fb66deb050
+  - enabled: 1
+    path: Assets/Scenes/CharlieHole1.unity
+    guid: edad38b26ea35de4d87bdb166d739312
+  - enabled: 1
+    path: Assets/Scenes/Edgarhole1.unity
+    guid: 4be97956e16073e4ea27b08e6affb52f
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 84c8947fca5a511479bcdd1726d2f5eb
+  m_configObjects: {}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Materials/Custom/Level2 Material.mat
+    - Assets/Scenes/Edgarhole1.unity
+    - Assets/Scenes/Tutorial.unity
+    - Assets/Scripts/CameraFollow.cs
+    - Assets/Scripts/CameraRotateNew.cs
+    - Assets/Scripts/CameraRotateNew.cs.meta
+    - Assets/Scripts/FreeLookClick.cs
+    - Assets/Scripts/GameRestart.cs
+    - Assets/Scripts/MovingPlatforms.cs
+    - Assets/Scripts/Pickup.cs
+    - Assets/Scripts/PlatformAttach.cs
+    - Assets/Scripts/SkyBoxCamera.cs
+    - Assets/Scripts/Tutorial.cs
+    - Assets/Terrain/New Terrain 1.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
